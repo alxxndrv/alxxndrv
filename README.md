@@ -4,4 +4,4 @@
 🇷🇺 Russia, GMT +3
 
 ### Languages and technologies
-<img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/master/icons/heroku.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/master/icons/js.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/master/icons/python.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/master/icons/swift.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/master/icons/swiftui.png">
+<img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/main/icons/heroku.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/main/icons/js.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/main/icons/python.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/main/icons/swift.png"> <img height="32" src="https://github.com/alxxndrv/alxxndrv/raw/main/icons/swiftui.png">
